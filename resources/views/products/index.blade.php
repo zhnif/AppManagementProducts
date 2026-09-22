@@ -8,7 +8,7 @@
 
     <div>
         <div class="eyebrow">
-            Inventory System
+            Inventory Management System
         </div>
 
         <h1 class="page-title">
@@ -16,7 +16,7 @@
         </h1>
 
         <p class="page-description">
-            Aplikasi Manajemen Produk dibuat menggunakan laravel 13 oleh Zaim Hanif Murtadlo
+            Aplikasi Manajemen Produk dibuat menggunakan laravel 13 oleh Zaim Hanif Murtadlo :>
         </p>
     </div>
 
