@@ -16,7 +16,7 @@
         </h1>
 
         <p class="page-description">
-            Aplikasi Manajemen Produk dibuat menggunakan laravel 13 oleh Zaim Hanif Murtadlo :>
+            Aplikasi Manajemen Produk dibuat menggunakan laravel 13 oleh Zaim Hanif Murtadlo >_<
         </p>
     </div>
 
